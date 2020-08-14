@@ -38,7 +38,7 @@ classifiers = ['Development Status :: 5 - Production/Stable',
                'Topic :: System :: Hardware']
 
 setup(name             = 'RPi.GPIO',
-      version          = '0.0.2',
+      version          = '0.7.0',
       author           = 'Harsha Alva',
       author_email     = 'aharshac@gmail.com',
       description      = 'Placeholder package to emulate RPi.GPIO package on non-Pi devices',

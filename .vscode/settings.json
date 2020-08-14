@@ -7,7 +7,7 @@
 	  "powershell -noexit -command ${env:OCTOPRINT_ENV}\\Scripts\\activate.ps1"
 	],
 	
-	"python.pythonPath": "${env:OCTOPRINT_ENV}\\Scripts\\python.exe",
+	"python.pythonPath": "C:\\Users\\npollock\\Anaconda3\\python.exe",
 	"python.jediEnabled": false,
   
 	"python.linting.enabled": true,
